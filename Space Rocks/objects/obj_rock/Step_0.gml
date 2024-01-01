@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Run every frame
 // You can write your code in this editor
 
 move_wrap(true, true, 100);

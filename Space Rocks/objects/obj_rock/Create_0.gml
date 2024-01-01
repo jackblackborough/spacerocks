@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Rock is created
 // You can write your code in this editor
 
 speed = 1;

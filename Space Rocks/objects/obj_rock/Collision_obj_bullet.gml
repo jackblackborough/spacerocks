@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Bullet hits rock
 // You can write your code in this editor
 
 instance_destroy(other);
